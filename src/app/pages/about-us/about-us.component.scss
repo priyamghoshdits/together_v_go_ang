@@ -1,0 +1,459 @@
+.subbanner_outarea
+{
+    border: none;
+    padding: 0px;
+    position: relative;
+    background-image: url(https://i.imgur.com/oLmfN6E.jpg);
+    background-position: center right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.subbanner_outarea::before
+{
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.43);
+    opacity: 0.4;
+}
+.middle_textarea
+{
+    margin: 220px 0px 0px 0px;
+    position: relative;
+}
+.breadcum_txthdng
+{
+    margin: 0px;
+    color: #FFF;
+    padding: 0px 0px 10px 110px;
+    font-size: 35px;
+    font-weight: 700;
+}
+.breadcum_slinkarea
+{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+.breadcum_slinkarea li
+{
+    list-style: none;
+    color: #FFF;
+    padding: 12px 0px 0px 110px;
+    font-size: 17px;
+}
+.jbrdcum_panarea
+{
+    border: none;
+}
+.kicon_design
+{
+    color: #FFF;
+    font-size: 15px;
+    padding: 0px 15px 0px 0px;
+}
+.kname_textdesign
+{
+    color: #FFF;
+    list-style: none;
+    text-decoration: none;
+    padding: 0px 15px 0px 0px;
+    font-size: 17px;
+}
+.cababout_outsection
+{
+    margin: 80px 0px 0px 0px;
+}
+.abtleft_outsection
+{
+    position: relative;
+}
+.abtfstimg_design
+{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.abtscndimg_design
+{
+    position: absolute;
+    bottom: -28%;
+    right: -10%;
+    border: 10px solid #FFF;
+}
+.abtrght_outsection
+{
+    margin: 60px 0px 0px 50px;
+}
+.wdntext_design
+{
+    font-size: 35px;
+    font-weight: 700;
+    color: #000000;
+    margin: 0px;
+}
+.wdntext_design1
+{
+    font-size: 20px;
+    color: #000000;
+    margin: 0px;
+    padding: 10px 0px 0px 0px;
+}
+.cstxt_textdesign
+{
+    color: #444;
+    text-align: justify;
+    font-size: 14px;
+    line-height: 22px;
+    padding: 20px 0px 0px 0px;
+}
+.cstxt_textdesign1
+{
+    color: #444;
+    text-align: justify;
+    font-size: 14px;
+    line-height: 22px;
+    padding: 10px 0px 18px 0px;
+}
+.antlstmain_area
+{
+    margin: 0px;
+    padding: 0px;
+}
+.kbox_section
+{
+    border: none;
+}
+.kshldtax_imgdesign
+{
+    width: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.kboxcontent_section
+{
+    border: none
+}
+.khcng_txtdesign
+{
+    color: #000;
+    font-size: 20px;
+    margin: 0px;
+    font-weight: 700;
+    padding: 6px 0px 0px 0px;
+}
+.lkpterxt_design
+{
+    color: #444;
+    margin: 0px;
+    font-size: 14px;
+    text-align: justify;
+    padding: 7px 0px 0px 0px;
+}
+.drembtn_design
+{
+    border: none;
+    outline: none;
+    width: 180px;
+    height: 55px;
+    border-radius: 40px;
+    background-color: #ff4f02;
+    color: #FFF;
+    margin: 30px 0px 0px 0px;
+    font-weight: 600;
+    line-height: 55px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.drembtn_design a
+{
+  color: #FFF;
+  text-decoration: none;
+}
+.dremicn_design
+{
+   font-size: 20px;
+   padding: 0px 0px 0px 5px;
+}
+.mainmvout_section
+{
+    margin: 140px 0px 0px 0px;
+    background-image: url(https://i.imgur.com/fCPjdFo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.dap_section
+{
+    margin: 50px 0px 50px 0px;
+}
+.leftimg_jaboutarea
+{
+    border: none;
+}
+.dmobile_designarea
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    max-width: 80%;
+    height: auto;
+}
+.rgtctnt_section
+{
+    border: none;
+    padding: 115px 0px 0px 50px;
+}
+.apps_textdesign
+{
+    color: #000;
+    font-weight: 700;
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+}
+.dtbc_textdesign
+{
+    color: #242430;
+    font-size: 35px;
+    margin: 0px;
+    padding: 15px 0px 0px 0px;
+    width: 430px;
+    line-height: 40px;
+    font-weight: 700;
+}
+.cpstext_design
+{
+    color: #ff4f02;
+}
+.sclp_textdesign
+{
+    color: #444;
+    padding: 20px 0px 0px 0px;
+    line-height: 27px;
+    font-size: 17px;
+    text-align: justify;
+}
+.hkcvb_areasection1
+{
+    border: none;
+    outline: none;
+    margin: 0px 15px 0px 0px;
+    width: 180px;
+    height: 62px;
+    border-radius: 7px;
+    animation: shadow-pulse 1.5s infinite;
+    background: #5cad2f;
+}
+.hkcvb_areasection2
+{
+    border: none;
+    outline: none;
+    margin: 0px 15px 0px 0px;
+    width: 180px;
+    height: 62px;
+    border-radius: 7px;
+    animation: shadow-pulse 1.5s infinite;
+    background: #000;
+}
+.lnktext_design
+{
+  text-decoration: none;
+}
+.area_design1
+{
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding: 8px 0px 0px 0px;
+}
+.googleplybtn_design
+{
+    width: 30px;
+}
+.area_design2
+{
+    width: 68%;
+    float: left;
+}
+.lknmcv_btngl2
+{
+    font-size: 12px;
+    color: #FFF;
+    text-align: left;
+    padding: 0px 0px 0px 3px;
+    letter-spacing: 0.2px;
+    margin: 0px;
+}
+.lknmcv_btngl1
+{
+    font-size: 17px;
+    color: #FFF;
+    font-weight: 800;
+    text-align: left;
+    padding: 0px 0px 0px 3px;
+    letter-spacing: 1px;
+    margin: -12px 0px 0px 0px;
+}
+.ktwapbtn_area
+{
+    margin: 20px 0px 0px 0px;
+}
+.mviout_mainsection
+{
+    margin: 70px 0px 70px 0px;
+}
+.mvileft_mainsection
+{
+    border: none;
+}
+.kmvimg_design
+{
+    width: 100%;
+    height: 100%;
+}
+.mviright_mainsection
+{
+    border: none;
+}
+.tmntext_design
+{
+    font-size: 30px;
+    margin: 0px;
+    padding: 60px 0px 0px 0px;
+    font-weight: 700;
+    color: #ff4f02;
+    text-align: center;
+    position: relative;
+}
+.tmntext_design::before
+{
+    background-color: #ff4f02;
+    width: 20%;
+    height: 2px;
+    position: absolute;
+    content: "";
+    bottom: -8px;
+    left: auto;
+}
+.mvnp_textdesign
+{
+    text-align: justify;
+    font-size: 14px;
+    padding: 30px 0px 0px 0px;
+    color: #444;
+    line-height: 25px;
+}
+@media(max-width: 767px)
+{
+    .middle_textarea
+    {
+        margin: 160px 0px 0px 0px;
+    }
+    .breadcum_txthdng
+    {
+        padding: 0px 0px 10px 20px;
+        font-size: 25px;
+    }
+    .breadcum_slinkarea li
+    {
+        padding: 7px 0px 0px 20px;
+    }
+    .subbanner_outarea
+    {
+        background-size: auto 100%;
+        background-repeat: no-repeat;
+        background-position: left top;
+        height: 300px;
+    }
+    .cababout_outsection
+    {
+        margin: 40px 0px 0px 0px;
+    }
+    .abtfstimg_design
+    {
+        width: 100%;
+    }
+    .abtscndimg_design
+    {
+        width: 80%;
+        right: 10%;
+    }
+    .abtrght_outsection
+    {
+        margin: 130px 0px 0px 10px;
+    }
+    .wdntext_design
+    {
+        font-size: 25px;
+    }
+    .cstxt_textdesign
+    {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .kshldtax_imgdesign
+    {
+        margin-left: inherit;
+    }
+    .cstxt_textdesign
+    {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .cstxt_textdesign1
+    {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .rgtctnt_section
+    {
+        padding: 40px 0px 0px 0px;;
+    }
+    .dtbc_textdesign
+    {
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .sclp_textdesign
+    {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .hkcvb_areasection1
+    {
+        width: 132px;
+        height: 50px;
+    }
+    .hkcvb_areasection2
+    {
+        width: 132px;
+        height: 50px;
+    }
+    .googleplybtn_design
+    {
+        width: 20px;
+    }
+    .lknmcv_btngl2
+    {
+        font-size: 10px;
+    }
+    .lknmcv_btngl1
+    {
+        font-size: 12px;
+    }
+    .mvnp_textdesign
+    {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .tmntext_design
+    {
+        font-size: 25px;
+    }
+}

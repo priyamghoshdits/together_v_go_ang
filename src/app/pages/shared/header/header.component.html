@@ -1,0 +1,35 @@
+<!-- ===========================navbar================================== -->
+<nav class="navmenu_area">
+    <div class="wrapper">
+        <div class="site_logoarea">
+            <a href="#">
+                <img src="assets/images/togetherwego-app.png" class="logo_design" height="1597" width="3435">
+            </a>
+        </div>
+        <input type="radio" name="slider" id="menu-btn">
+        <input type="radio" name="slider" id="close-btn">
+        <ul class="nav-links">
+          <label for="close-btn" class="btn close-btn"><i class="fas fa-times closebtn_design"></i></label>
+          <li><a [routerLink]="['/']">Home</a></li>
+          <li><a [routerLink]="['/about-us']">About Us</a></li>
+          <li><a [routerLink]="['/services']">Service</a></li>
+          <li><a [routerLink]="['/how-it-works']">How it works</a></li>
+         <div class="topheaderbtn_structure">
+            <button class="lsgnupbtn_design">
+               <a [routerLink]="['/contact-us']">
+                  <i class="fa-solid fa-phone"></i>
+                  Contact Us
+               </a>
+            </button>
+             <!-- <button class="lsgnupbtn_design1">
+               <a href="#">
+                  <i class="fa-solid fa-circle-arrow-right"></i>
+                  Sign Up
+               </a>
+             </button> -->
+         </div>
+        </ul>
+       <label for="menu-btn" class="btn menu-btn threelab_btndesign"><i class="fas fa-bars"></i></label>
+    </div>
+ </nav>
+<!-- ===========================navbar================================== -->
