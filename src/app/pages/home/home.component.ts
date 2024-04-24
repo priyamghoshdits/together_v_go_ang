@@ -7,6 +7,7 @@ import {environment} from "../../../environments/environment";
 import {CityService} from "../../services/city.service";
 import {ServicesService} from "../../services/services.service";
 import {TestimonialService} from "../../services/testimonial.service";
+
 @Component({
   selector: 'app-home',
   standalone: true,
@@ -33,13 +34,13 @@ export class HomeComponent {
         items: 1
       },
       400: {
-        items: 2
+        items: 1
       },
       740: {
-        items: 3
+        items: 1
       },
       940: {
-        items: 3
+        items: 1
       }
     },
     nav: true
