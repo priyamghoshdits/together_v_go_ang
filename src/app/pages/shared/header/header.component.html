@@ -2,7 +2,7 @@
 <nav class="navmenu_area">
     <div class="wrapper">
         <div class="site_logoarea">
-            <a href="#">
+            <a [routerLink]="['/']">
                 <img src="assets/images/togetherwego-app.png" class="logo_design" height="1597" width="3435">
             </a>
         </div>
@@ -11,9 +11,9 @@
         <ul class="nav-links">
           <label for="close-btn" class="btn close-btn"><i class="fas fa-times closebtn_design"></i></label>
           <li><a [routerLink]="['/']">Home</a></li>
-          <li><a [routerLink]="['/about-us']">About Us</a></li>
-          <li><a [routerLink]="['/services']">Service</a></li>
+          <!-- <li><a [routerLink]="['/services']">Service</a></li> -->
           <li><a [routerLink]="['/how-it-works']">How it works</a></li>
+          <li><a [routerLink]="['/about-us']">About Us</a></li>
          <div class="topheaderbtn_structure">
             <button class="lsgnupbtn_design">
                <a [routerLink]="['/contact-us']">
